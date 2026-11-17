@@ -1,5 +1,11 @@
 # LightPHE cross-language benchmark
 
+<div align="center">
+
+[![DOI](http://img.shields.io/:DOI-10.3390/sym18050832-blue.svg?style=flat)](https://www.mdpi.com/2073-8994/18/5/832)
+
+</div>
+
 Benchmarks the four implementations of LightPHE, a lightweight partially homomorphic encryption
 library, against each other. It covers encryption, decryption, every homomorphic operation each scheme
 supports and key generation at three security levels (80, 112 and 128 bit), and also reports
