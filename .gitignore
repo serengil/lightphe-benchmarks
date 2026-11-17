@@ -1,0 +1,14 @@
+# build outputs (recreate with ./build.sh)
+drivers/go/bench
+drivers/java/build/
+drivers/java/classpath.txt
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# measurements and derived data stay local; the report is regenerated from them (see README)
+results/
+
+# generated from gen_cases.py on first use
+config/
